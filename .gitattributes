@@ -1,3 +1,8 @@
+*               text=auto
 *.bat           text eol=crlf
+*.gif          -text
+*.jar          -text
+*.jpg          -text
+*.png          -text
 gradlew         text eol=lf
 
